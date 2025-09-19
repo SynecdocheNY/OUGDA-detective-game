@@ -30,7 +30,7 @@ Design wise, I'm imagining a sleak, art deco train engine like shape with the pi
 
 
 
-Piilot could be a clockwork ai kind of thing
+Pilot could be a clockwork ai kind of thing
 
 
 

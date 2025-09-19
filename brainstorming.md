@@ -21,7 +21,7 @@ Fast travel, but with a bit more personality than your typical click-button-go-h
 
 
 Borrowing this sentient transport idea from the Murderbot book series
----
+
 Design wise, I'm imagining a sleak, art deco train engine like shape with the pilot's seat nestled on top, and also a big polluting steam engine inelegantly wedged into the middle or back (can't find a strampunk engine reference that isn't ai slop ):
 ---
 

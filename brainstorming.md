@@ -12,7 +12,7 @@ Could serve as comic relief
 
 
 
-could serve as logic puzzles i.e. a certain vehicle won't do what you want unless [condition] is met and you have to figure out how to get that condition or trick it into thinking condition is met (has orders not to talk to "cops," have to figure out how to solve that problem)
+could serve as logic puzzles i.e. a certain vehicle won't do what you want unless [condition] is met and you have to figure out how to get that condition or trick it into thinking condition is met (has orders not to cooperate with "cops," have to figure out how to get around thaat)
 
 
 
